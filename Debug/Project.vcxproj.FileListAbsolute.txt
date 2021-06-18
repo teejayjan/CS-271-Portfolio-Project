@@ -1,0 +1,8 @@
+C:\CS271\Project0\Debug\Project.exe
+C:\CS271\Project0\Debug\Project.pdb
+C:\CS271\Template\Debug\Project.exe
+C:\CS271\Template\Debug\Project.pdb
+C:\CS271\~Template\Debug\Project.exe
+C:\CS271\~Template\Debug\Project.pdb
+C:\CS271\Project 6 - String Primitives and Macros\Debug\Project.exe
+C:\CS271\Project 6 - String Primitives and Macros\Debug\Project.pdb
