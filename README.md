@@ -1,7 +1,7 @@
 # CS 271 Portfolio Project
  CS 271 Computer Architecture & Assembly Language
  
-# Description
+## Description
  Implements custom macros/procedures to mimic Irvine's Library: 
  * read user input
  * print string
